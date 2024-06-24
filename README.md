@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @alisaeed-py
-- 👀 I’m interested in python.
+- 🤖 I’m interested in AI.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me? alisaeed.py@gmail.com
 
 <!---
